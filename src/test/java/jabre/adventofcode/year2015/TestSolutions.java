@@ -46,4 +46,13 @@ public class TestSolutions {
         assertEquals("46065", new jabre.adventofcode.year2015.day7.Part1().solve());
         assertEquals("14134", new jabre.adventofcode.year2015.day7.Part2().solve());
     }
+
+    @Test public void day8() {
+
+    }
+
+    @Test public void day9() {
+        assertEquals("141.0", new jabre.adventofcode.year2015.day9.Part1().solve());
+        assertEquals("736.0", new jabre.adventofcode.year2015.day9.Part2().solve());
+    }
 }
