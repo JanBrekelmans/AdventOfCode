@@ -24,6 +24,6 @@ hs_err_pid*
 replay_pid*
 
 # Build folders
-./build/
-./.idea/
-./gradle/
+build/
+.idea/
+gradle/
